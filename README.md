@@ -12,6 +12,4 @@ Prerequisites:
 
 The explanation of code is present in the [blog](https://dev.to/niteshthapliyal/image-processing-fun-with-opencv-b2d)
 
-To watch demo video:
-
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/E4Qz0AdYEU4)
+To watch demo [Video](https://youtu.be/E4Qz0AdYEU4)
